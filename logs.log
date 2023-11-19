@@ -1,0 +1,886 @@
+nov. 14, 2023 11:23:22 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 11:36:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:21:24 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:28:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:36:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:36:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: invalid stream header: EFBFBDEF
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: null
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 1:39:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 1:40:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: Alejandro Arango
+nov. 14, 2023 1:44:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:44:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 1:44:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 1:44:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 1:44:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 1:44:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 1:50:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: null
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 1:50:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 1:51:53 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: Alejandro Arango
+nov. 14, 2023 5:14:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: null
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 5:14:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 5:15:24 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: X
+nov. 14, 2023 5:54:59 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 5:55:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 5:55:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 5:55:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 5:55:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 5:55:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 6:05:04 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: gaga
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 6:46:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 6:54:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 14, 2023 7:29:27 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 9:40:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 9:40:04 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 9:40:04 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 9:40:04 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 9:40:04 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 9:40:04 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 9:42:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 10:39:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 10:41:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: Alejandro Arango
+nov. 15, 2023 10:55:29 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 10:55:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 10:55:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 10:55:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 10:55:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 10:55:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 11:04:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 11:04:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 11:04:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 11:04:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 11:04:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 11:04:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 11:10:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 11:22:07 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 11:22:07 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 11:22:08 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 11:22:08 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 11:22:08 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 11:22:08 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 11:44:19 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 11:44:23 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 11:44:23 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 11:44:23 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 11:44:23 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 11:44:23 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 11:47:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 11:47:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 11:47:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 11:47:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 11:47:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 11:47:51 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 12:03:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 12:03:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 12:03:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 12:03:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 12:03:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 12:03:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 12:10:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 1:50:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 1:50:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 1:50:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 1:50:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 1:50:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 1:50:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 2:35:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:02:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:02:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:02:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:02:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:02:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:02:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:06:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:06:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:06:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:06:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:06:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:06:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:10:28 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:10:29 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:10:29 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:10:29 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:10:29 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:10:29 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:22:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:22:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:22:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:22:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:22:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:22:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:27:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:27:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:27:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:27:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:27:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:27:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 3:36:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 15, 2023 5:05:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 15, 2023 5:05:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 15, 2023 5:05:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 15, 2023 5:05:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 15, 2023 5:05:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 15, 2023 5:05:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 9:15:44 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerClientes
+SEVERE: null
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 9:15:47 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 9:17:00 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: 1104804234
+nov. 16, 2023 9:40:49 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 9:40:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 16, 2023 9:40:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 9:40:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 9:40:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 9:40:50 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 10:00:25 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 10:00:27 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 16, 2023 10:00:27 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 10:00:27 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 10:00:27 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 10:00:27 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 10:09:41 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 10:09:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 16, 2023 10:09:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 10:09:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 10:09:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 10:09:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerDestinos
+SEVERE: null
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 11:32:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 11:34:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarDestino
+INFO: Se ha registrado el nuevo destino: Destino 1
+nov. 16, 2023 11:38:19 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 11:38:20 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 11:38:20 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 11:38:20 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 11:38:20 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 11:39:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 11:39:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 11:39:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 11:39:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 11:39:43 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 11:52:02 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 11:52:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 11:52:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 11:52:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 11:52:03 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 1:55:11 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 1:55:12 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 1:55:12 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 1:55:12 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 1:55:12 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 1:57:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarDestino
+INFO: Se ha actualizado al destino con nombre: Destino 1
+nov. 16, 2023 1:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 1:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 1:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 1:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 1:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 2:05:08 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 2:05:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 2:05:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 2:05:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 2:05:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 2:06:01 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor eliminarDestino
+INFO: Se ha borrado el destino: Destino 1
+nov. 16, 2023 2:06:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 2:06:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 2:06:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 2:06:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 2:06:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 2:08:25 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 16, 2023 2:08:25 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 16, 2023 2:08:25 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 16, 2023 2:08:25 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 16, 2023 2:08:25 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 16, 2023 2:09:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarDestino
+INFO: Se ha registrado el nuevo destino: Destino 1
+nov. 16, 2023 2:09:47 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor eliminarDestino
+INFO: Se ha borrado el destino: Destino 1
+nov. 17, 2023 9:50:06 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 9:50:07 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerPaquetes
+SEVERE: null
+nov. 17, 2023 9:50:07 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 9:50:07 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 9:50:07 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 9:53:57 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarDestino
+INFO: Se ha registrado el nuevo destino: Destino 1
+nov. 17, 2023 9:54:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarDestino
+INFO: Se ha registrado el nuevo destino: Destino 2
+nov. 17, 2023 9:54:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarDestino
+INFO: Se ha actualizado al destino con nombre: Destino 2
+nov. 17, 2023 9:55:22 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarPaquete
+INFO: Se ha registrado el nuevo paquete: Paquete 1
+nov. 17, 2023 9:56:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 9:56:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 9:56:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 9:56:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:05:12 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:05:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:05:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:05:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:14:42 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:14:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:14:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:14:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:24:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:24:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:24:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:24:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:33:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:33:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:33:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:33:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:38:30 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:38:30 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:38:30 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:38:30 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 10:43:30 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarPaquete
+INFO: Se ha registrado el nuevo paquete: Paquete 2
+nov. 17, 2023 10:44:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 10:44:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 10:44:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 10:44:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 11:09:34 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 11:09:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 11:09:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 11:09:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 11:22:47 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 11:22:48 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 11:22:48 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 11:22:48 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 11:33:17 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 2
+nov. 17, 2023 11:33:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor eliminarPaquete
+INFO: Se ha eliminado el paquete: Paquete 2
+nov. 17, 2023 11:35:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 17, 2023 11:35:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 17, 2023 11:35:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 17, 2023 11:35:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 17, 2023 11:37:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 12:12:35 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:12:36 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerGuias
+SEVERE: null
+nov. 18, 2023 12:12:36 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:12:36 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 12:17:26 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarGuiaTuristico
+INFO: Se ha registrado un nuevo guía turístico con la identificación: 0000
+nov. 18, 2023 12:22:16 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:22:17 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:22:17 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 12:23:40 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarGuiaTuristico
+INFO: Se ha registrado un nuevo guía turístico con la identificación: 0001
+nov. 18, 2023 12:25:17 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:25:18 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:25:18 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 12:33:13 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:33:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:33:14 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 12:45:32 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:45:33 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:45:33 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 12:51:55 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:51:56 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:51:56 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 1:00:17 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 1:00:18 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 1:00:18 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 1:04:41 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 1:04:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 1:04:42 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 1:05:40 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarGuiaTuristico
+INFO: Se ha actualizado al guía turístico con identificación: 0000
+nov. 18, 2023 1:05:49 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor eliminarGuiaTuristico
+INFO: Se ha borrado el guía turístico con identificación: 0001
+nov. 18, 2023 1:08:11 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 1:08:12 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 1:08:12 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 1:23:09 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 1:23:10 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 1:23:10 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 10:59:39 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 10:59:41 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 10:59:41 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerBusquedas
+SEVERE: null
+nov. 18, 2023 11:08:52 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarCliente
+INFO: Se ha actualizado al cliente con la cedula: 1104804234
+nov. 18, 2023 11:10:28 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 11:10:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 11:12:30 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 11:12:31 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 11:41:28 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 11:41:37 A. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:04:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:04:22 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:13:22 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:13:23 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:22:59 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 12:23:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 12:23:54 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=20, fechaInicio=2023-11-18, fechaFin=2023-11-28}
+nov. 18, 2023 2:07:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 2:07:17 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 2:14:24 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 2:15:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 2:23:46 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 2:23:49 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 2:25:39 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 2:32:32 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 2:32:32 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 2:34:01 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 2:39:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 2:39:34 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 2:41:04 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarReserva
+INFO: Se ha registrado un nueva reserva para el usuario con la identificación: 1104804234
+nov. 18, 2023 2:41:05 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 2:44:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 3:11:28 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 3:13:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarReserva
+INFO: Se ha registrado un nueva reserva para el usuario con la identificación: 1104804234
+nov. 18, 2023 3:13:22 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 3:58:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:04:06 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:17:58 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:19:57 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor cancelarReserva
+INFO: Se ha actualizado correctamente la reserva
+nov. 18, 2023 4:20:32 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:35:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:37:13 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor cancelarReserva
+INFO: Se ha actualizado correctamente la reserva
+nov. 18, 2023 4:37:57 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:43:00 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:44:58 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor cancelarReserva
+INFO: Se ha actualizado correctamente la reserva
+nov. 18, 2023 4:45:40 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:51:05 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 4:54:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor cancelarReserva
+INFO: Se ha actualizado correctamente la reserva
+nov. 18, 2023 5:07:02 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 6:40:53 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 6:51:19 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 6:56:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 6:56:20 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 6:58:14 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarReserva
+INFO: Se ha registrado un nueva reserva para el usuario con la identificación: 1104804234
+nov. 18, 2023 6:58:22 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 7:04:31 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 7:08:09 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarCliente
+INFO: Se ha actualizado al cliente con la cedula: 1104804234
+nov. 18, 2023 7:09:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 7:25:56 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 7:25:57 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor leerReservas
+SEVERE: null
+nov. 18, 2023 7:27:11 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 7:27:15 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor registrarReserva
+INFO: Se ha registrado un nueva reserva para el usuario con la identificación: 1104804234
+nov. 18, 2023 7:27:24 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 18, 2023 7:27:33 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor cancelarYObtenerReservas
+WARNING: La reserva no pudo ser encontrada para cancelación
+nov. 18, 2023 7:43:37 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 7:49:17 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarDestino
+INFO: Se ha actualizado al destino con nombre: Destino 1
+nov. 18, 2023 7:51:36 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 7:58:24 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 18, 2023 8:28:41 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 18, 2023 8:30:26 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 18, 2023 9:45:21 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 18, 2023 9:50:10 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 18, 2023 9:50:49 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 19, 2023 3:12:55 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:15:48 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor agregarCliente
+INFO: Se ha registrado un nuevo cliente con la cedula: 000
+nov. 19, 2023 3:21:34 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor setPaqueteTuristico
+INFO: Recibido paquete: PaqueteTuristico{nombre='Paquete 1', destinos=[Destino{nombre='Destino 1', ciudad='Armenia', descripcion='Primer destino', clima=CALIDO, imagenes=[/imagenes/parqueDelCafe.png], calificaciones=[], comentarios=[]}], duracion='10 dias', serviciosAdicionales='Servicios medicos', precio=100000.0, cupoMaximo=4, fechaInicio=2023-11-19, fechaFin=2023-11-29}
+nov. 19, 2023 3:21:45 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarCliente
+INFO: Se ha actualizado al cliente con la cedula: 000
+nov. 19, 2023 3:22:50 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:27:42 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:37:53 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:49:49 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:49:49 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:50:17 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:50:17 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:55:03 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 3:55:52 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor actualizarPaquete
+INFO: Se ha actualizado al paquete con nombre: Paquete 1
+nov. 19, 2023 3:57:51 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 4:15:43 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 4:22:06 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
+nov. 19, 2023 4:31:35 P. M. co.edu.uniquindio.agencia.modelo.AgenciaServidor <init>
+INFO: Se crea una nueva instancia de la Agencia de Viajes
